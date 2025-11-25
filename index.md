@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<img style="float:left;max-width:33%" src="/images/IMG_2143.jpeg">
+<img style="float:right;max-width:25%" src="/images/IMG_2143.jpeg">
 
 I'm a systems neuroscientist interested in the neural mechanisms underlying learning and exploration. I am completing my PhD from the Hebrew University of Jerusalem under the supervision of [Israel Nelken](https://elsc.huji.ac.il/people-directory/faculty-members/israel-nelken/) and [Yonatan Loewenstein](https://elsc.huji.ac.il/people-directory/faculty-members/yonatan-loewenstein/).
 
